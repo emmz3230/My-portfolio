@@ -1,0 +1,36 @@
+{
+  "name": "r3f-vite-starter",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@formspree/react": "^2.5.1",
+    "@react-three/drei": "9.75.0",
+    "@react-three/fiber": "8.13.3",
+    "@types/three": "0.152.1",
+    "framer-motion": "^11.2.11",
+    "framer-motion-3d": "^11.2.11",
+    "gsap": "^3.12.5",
+    "jotai": "^2.8.3",
+    "leva": "^0.9.35",
+    "moti": "^0.29.0",
+    "motion": "^10.18.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "0.153.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "vite": "^4.1.0"
+  }
+}
